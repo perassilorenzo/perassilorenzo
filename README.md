@@ -1,6 +1,29 @@
-# 🎨 pera
+```
+██████╗ ███████╗██████╗  █████╗ 
+██╔══██╗██╔════╝██╔══██╗██╔══██╗
+██████╔╝█████╗  ██████╔╝███████║
+██╔═══╝ ██╔══╝  ██╔══██╗██╔══██║
+██║     ███████╗██║  ██║██║  ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+# Student Developer 🎓
 
 Welcome to my GitHub profile! I'm a **student developer** 🎓, **digital creator** 🎬, and **freelancer** 💼 passionate about blending **technology**, **communication**, and **creativity**. Currently on a journey to build innovative projects that matter.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=perassilorenzo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=perassilorenzo&theme=dark&hide_border=true&layout=compact)
+
+![](https://streak-stats.demolab.com?user=perassilorenzo&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
