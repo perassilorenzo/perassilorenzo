@@ -1,13 +1,4 @@
-```
-███████╗████████╗██╗   ██╗██████╗ ███████╗███╗   ██╗████████╗███████╗    ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
-██╔════╝╚══██╔══╝██║   ██║██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██╔════╝    ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
-███████╗   ██║   ██║   ██║██║  ██║█████╗  ██╔██╗ ██║   ██║   █████╗      ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
-╚════██║   ██║   ██║   ██║██║  ██║██╔══╝  ██║╚██╗██║   ██║   ██╔══╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
-███████║   ██║   ╚██████╔╝██████╔╝███████╗██║ ╚████║   ██║   ███████╗    ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
-╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
-```
-
-# Hey there! 👋 I'm **Lorenzo Perasso**
+# 🎨 pera
 
 Welcome to my GitHub profile! I'm a **student developer** 🎓, **digital creator** 🎬, and **freelancer** 💼 passionate about blending **technology**, **communication**, and **creativity**. Currently on a journey to build innovative projects that matter.
 
@@ -49,16 +40,6 @@ Focus:      Web Development  •  Digital Communication
 - 👗 Fashion & tailoring (future tech-fashion project in progress...)
 - ✨ Blending creativity with technology
 - 🎯 Creating meaningful digital experiences
-
----
-
-## 📊 GitHub Activity
-
-![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perassilorenzo&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perassilorenzo&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=perassilorenzo&theme=nord&hide_border=true&background=0d1117)
 
 ---
 
