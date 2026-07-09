@@ -127,11 +127,9 @@ Gestisco **Diario di uno 09**, una content series su tech, fashion, creatività 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perassilorenzo/perassilorenzo/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/perassilorenzo/perassilorenzo/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perassilorenzo/perassilorenzo/main/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/perassilorenzo/perassilorenzo/main/github-contribution-grid-snake.svg" width="95%" alt="snake">
   </picture>
-  <br>
-  <sub>⚡ La snake animation funziona dopo aver configurato la GitHub Action <code>platane/snk</code> nel repo</sub>
 </div>
 
 ---
