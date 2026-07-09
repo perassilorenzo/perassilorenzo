@@ -35,10 +35,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=perassilorenzo&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&text_color=FFFFFF">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perassilorenzo&theme=default&hide_border=true&layout=compact" height="150">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=perassilorenzo&limit=5&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF6OOF">
-    <img src="https://github-contributor-stats.vercel.app/api?username=perassilorenzo&limit=5&theme=default&hide_border=true" height="150">
-  </picture>
 </div>
 
 <br>
@@ -131,9 +127,11 @@ Gestisco **Diario di uno 09**, una content series su tech, fashion, creatività 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/perassilorenzo/perassilorenzo/blob/main/assets/github-contribution-grid-snake-dark.svg">
-    <img src="https://github.com/perassilorenzo/perassilorenzo/blob/main/assets/github-contribution-grid-snake-dark.svg" width="95%" alt="snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perassilorenzo/perassilorenzo/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/perassilorenzo/perassilorenzo/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake">
   </picture>
+  <br>
+  <sub>⚡ La snake animation funziona dopo aver configurato la GitHub Action <code>platane/snk</code> nel repo</sub>
 </div>
 
 ---
