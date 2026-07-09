@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: perassilorenzo
           outputs: |
@@ -25,5 +24,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add github-contribution-grid-snake*.svg
-          git commit -m "update snake" || echo "no changes"
-          git push
+          git diff --staged --exit-code && echo "no changes" && exit 0
+          git commit -m "update snake"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
