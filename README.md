@@ -8,9 +8,9 @@
 ```
 
 <p align="center">
-  <b>Student Developer · Digital Creator</b>
+  <b>Lorenzo Perassi — Developer, Creator, Builder</b>
   <br>
-  <i>Building at the intersection of code, creativity, and communication</i>
+  <i>Costruisco prodotti digitali dove codice, design e creatività si incontrano</i>
 </p>
 
 <div align="center">
@@ -50,13 +50,15 @@
 
 ## About Me
 
-IT student from Italy, passionate about web development, digital communication, and fashion customization. I learn by building.
+Studio informatica in Italia, ma il mio percorso non si limita alla scuola. Costruisco prodotti digitali, sperimento con il design e lavoro su progetti reali che uniscono tecnologia e creatività.
 
-🔹 **IT student** @ ITIS  
-🔹 **Digital creator** — Diario di uno 09 (Instagram, TikTok, YouTube)  
-🔹 **Stage** @ Omnia4Web — social media content, video editing, graphics  
-🔹 **Stage FSL** @ Bertolotto Porte — document management & archive digitalization  
-🔹 **Cliente** @ CRYBU S.R.L. — shirt design & prototyping per presentazione investitori
+Ogni progetto è un modo per imparare qualcosa di nuovo — non aspetto la laurea per iniziare a costruire.
+
+🔹 **Sviluppatore** — web development, app, automazione  
+🔹 **Creator** — Diario di uno 09 (Instagram, TikTok, YouTube)  
+🔹 **Stage** @ Omnia4Web — content creation, video editing, grafica  
+🔹 **Stage FSL** @ Bertolotto Porte — digitalizzazione archivi e gestione documenti  
+🔹 **Cliente** @ CRYBU S.R.L. — design e prototipazione maglie per presentazione investitori
 
 ---
 
@@ -64,46 +66,61 @@ IT student from Italy, passionate about web development, digital communication, 
 
 ### [Custom Configurator](https://github.com/perassilorenzo/custom-configurator)
 
-> _In fase di sviluppo._ Una web app per venditori di custom fashion che vogliono offrire ai propri clienti un configuratore visuale per personalizzare capi di abbigliamento in tempo reale, con anteprima SVG e invio ordini strutturato.  
+> Il mio progetto principale. Una piattaforma nata dall'unione tra software e moda custom — permette ai creator fashion di offrire personalizzazioni digitali ai clienti in tempo reale, con anteprima SVG e gestione ordini strutturata.
+> Un prodotto reale che risolve un problema concreto: rendere la personalizzazione accessibile e scalabile.
 > _Vanilla JS · CSS · Formspree · Modular seller system_
 
 ### [Portfolio](https://perassilorenzo.github.io/portfolio)
 
-> Portfolio personale che raccoglie progetti, lavori di design e content creation.  
+> Il mio spazio personale su web — progetti, lavori di design e contenuti creativi, tutto in un unico posto.
 > _HTML · CSS · GitHub Pages_
+
+### [Diario di uno 09](https://www.instagram.com/diario_di_uno_09)
+
+> Progetto personale di content creation dove documento il percorso tra tecnologia, creatività, disciplina e costruzione di idee. Non è un account social — è un diario pubblico di come imparo costruendo.
+> _Content · Video · Design · Storytelling_
 
 ### [Bertolotto Stage](https://github.com/perassilorenzo/bertolotto-stage)
 
-> Esercizi C# sviluppati durante lo stage per capire il funzionamento di quello che studio nel mondo del lavoro effettivo e applicare le competenze apprese a scuola a casi concreti.  
+> Esercizi C# sviluppati durante lo stage — il primo contatto reale tra quello che studio a scuola e il mondo del lavoro.
 > _C# · .NET · Windows Forms_
-
-### [Study Archive](https://github.com/perassilorenzo/study-archive)
-
-> Archivio personale di appunti, assignment, esercizi di programmazione, progetti e risorse di studio dell'ITIS, organizzati per materia e anno scolastico.  
-> _C# · Documentazione scolastica_
 
 ### [CS50x](https://github.com/perassilorenzo/cs50x)
 
-> Harvard's CS50x — appunti, esercizi e problem set.  
+> Harvard's CS50x — appunti, esercizi e problem set. Un percorso strutturato per consolidare le basi della computer science.
 > _C · Python · SQL_
+
+### [Study Archive](https://github.com/perassilorenzo/study-archive)
+
+> Archivio personale di appunti, assignment e risorse — organizzato per materia e anno scolastico, un riferimento continuo.
+> _Documentazione · C#_
 
 ---
 
 ## Tech Stack
 
 ```
-Frontend:     HTML · CSS · JavaScript
-Backend:      C# · .NET · Python
-Tools:        Git · Bash · VS Code
-Creative:     Canva · CapCut · Lightroom
-Other:        n8n · Cybersecurity fundamentals
+Development:
+  Frontend     HTML · CSS · JavaScript
+  Backend      C# · .NET · Python
+  Database     SQL · SQLite
+
+Creative:
+  Video        CapCut · Lightroom
+  Design       Canva · Figma
+  Content      Instagram · TikTok · YouTube
+
+Workflow:
+  Versioning   Git · GitHub
+  Terminal     Bash · Linux
+  Automation   n8n · GitHub Actions
 ```
 
 ---
 
-## Content & Social
+## Content & Creative Work
 
-Gestisco **Diario di uno 09**, una content series su tech, fashion, creatività e il mio percorso come studente e creator.
+**Diario di uno 09** è il mio progetto personale di content creation — documento il percorso tra tecnologia, creatività e costruzione di idee. Non è un semplice account social: è un archivio pubblico di come imparo, provo e costruisco.
 
 <p align="center">
   <a href="https://www.instagram.com/diario_di_uno_09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
@@ -134,16 +151,17 @@ Gestisco **Diario di uno 09**, una content series su tech, fashion, creatività 
 
 ---
 
-## What I'm Working On
+## Currently Building
 
-- **Custom Configurator** — evoluzione da MVP a ecosistema completo per venditori di custom fashion
-- **Tech × Fashion** — unire codice e sartoria in una piattaforma unica
-- **Open source** — imparare contribuendo, costruire in pubblico
+- **Custom Configurator** — da MVP a piattaforma completa per venditori di custom fashion
+- **Tech × Fashion** — sperimentare connessioni tra codice e sartoria handmade
+- **Content Creation** — documentare il processo di costruzione, non solo il risultato
+- **Open Source** — imparare contribuendo, costruire in pubblico
 
 ---
 
 <p align="center">
-  <i>Building the future, one project at a time.</i>
+  <i>Ogni progetto è un passo avanti. Ogni errore è una lezione. Ogni idea merita di essere costruita.</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=perassilorenzo&color=blue&style=flat-square&label=Profile+Views">
 </p>
