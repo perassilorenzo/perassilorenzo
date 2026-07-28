@@ -49,9 +49,10 @@ Studio informatica in Italia, ma il mio percorso non si limita alla scuola. Cost
 
 Ogni progetto è un modo per imparare qualcosa di nuovo — non aspetto la laurea per iniziare a costruire.
 
-🔹 **Sviluppatore** — web development, app, automazione  
+🔹 **Developer** — web development, Cloudflare, automazioni  
 🔹 **Creator** — Diario di uno 09 (Instagram, TikTok, YouTube)  
-🔹 **Stage** @ Omnia4Web — content creation, video editing, grafica  
+🔹 **Founder** — Customly (custom fashion platform)  
+🔹 **Stage** @ Omnia4Web — content creation, video editing, grafica (Mag–Lug 2026)  
 🔹 **Stage FSL** @ Bertolotto Porte — digitalizzazione archivi e gestione documenti  
 🔹 **Cliente** @ CRYBU S.R.L. — design e prototipazione maglie per presentazione investitori
 
@@ -59,13 +60,13 @@ Ogni progetto è un modo per imparare qualcosa di nuovo — non aspetto la laure
 
 ## Featured Projects
 
-### [Custom Configurator](https://github.com/perassilorenzo/custom-configurator)
+### [Customly](https://customly.it)
 
-> Il mio progetto principale. Una piattaforma nata dall'unione tra software e moda custom — permette ai creator fashion di offrire personalizzazioni digitali ai clienti in tempo reale, con anteprima SVG e gestione ordini strutturata.
+> Piattaforma di custom fashion che unisce moda e tecnologia — un configuratore digitale per personalizzare abbigliamento in modo semplice e intuitivo. MVP live, sviluppato con Cloudflare Pages, D1 e R2.
 > Un prodotto reale che risolve un problema concreto: rendere la personalizzazione accessibile e scalabile.
-> _Vanilla JS · CSS · Formspree · Modular seller system_
+> _Vanilla JS · Cloudflare Pages · D1 · R2_
 
-### [Portfolio](https://perassilorenzo.github.io/portfolio)
+### [Portfolio](https://lorenzoperassi.it)
 
 > Il mio spazio personale su web — progetti, lavori di design e contenuti creativi, tutto in un unico posto.
 > _HTML · CSS · GitHub Pages_
@@ -85,6 +86,11 @@ Ogni progetto è un modo per imparare qualcosa di nuovo — non aspetto la laure
 > Harvard's CS50x — appunti, esercizi e problem set. Un percorso strutturato per consolidare le basi della computer science.
 > _C · Python · SQL_
 
+### [Knowledge Base](https://github.com/perassilorenzo/knowledge-base)
+
+> Knowledge base personale — organizzazione di progetti, business, marketing, content creation e sistemi di lavoro. Centro operativo personale.
+> _Markdown · AI agents · Dropbox_
+
 ### [Study Archive](https://github.com/perassilorenzo/study-archive)
 
 > Archivio personale di appunti, assignment e risorse — organizzato per materia e anno scolastico, un riferimento continuo.
@@ -98,7 +104,8 @@ Ogni progetto è un modo per imparare qualcosa di nuovo — non aspetto la laure
 Development:
   Frontend     HTML · CSS · JavaScript
   Backend      C# · .NET · Python
-  Database     SQL · SQLite
+  Database     SQL · SQLite · D1
+  Cloud        Cloudflare Pages · R2 · D1
 
 Creative:
   Video        CapCut · Lightroom
@@ -109,6 +116,7 @@ Workflow:
   Versioning   Git · GitHub
   Terminal     Bash · Linux
   Automation   n8n · GitHub Actions
+  Knowledge    Markdown · Dropbox
 ```
 
 ---
@@ -148,8 +156,8 @@ Workflow:
 
 ## Currently Building
 
-- **Custom Configurator** — da MVP a piattaforma completa per venditori di custom fashion
-- **Tech × Fashion** — sperimentare connessioni tra codice e sartoria handmade
+- **Customly** — piattaforma di custom fashion, MVP live su customly.it
+- **Knowledge Base** — sistema personale di organizzazione con AI agents
 - **Content Creation** — documentare il processo di costruzione, non solo il risultato
 - **Open Source** — imparare contribuendo, costruire in pubblico
 
