@@ -43,6 +43,16 @@
 
 ---
 
+## Customly
+
+> ### [Customly](https://customly.it)
+>
+> > Piattaforma di custom fashion che unisce moda e tecnologia — un configuratore digitale per personalizzare abbigliamento in modo semplice e intuitivo. MVP live, sviluppato con **Cloudflare Pages**, **D1** e **R2**.
+> > Un prodotto reale che risolve un problema concreto: rendere la personalizzazione accessibile e scalabile.
+> > _Vanilla JS · Cloudflare Pages · D1 · R2_
+
+---
+
 ## About Me
 
 Studio informatica in Italia, ma il mio percorso non si limita alla scuola. Costruisco prodotti digitali, sperimento con il design e lavoro su progetti reali che uniscono tecnologia e creatività.
@@ -55,46 +65,6 @@ Ogni progetto è un modo per imparare qualcosa di nuovo — non aspetto la laure
 🔹 **Stage** @ Omnia4Web — content creation, video editing, grafica (Mag–Lug 2026)  
 🔹 **Stage FSL** @ Bertolotto Porte — digitalizzazione archivi e gestione documenti  
 🔹 **Cliente** @ CRYBU S.R.L. — design e prototipazione maglie per presentazione investitori
-
----
-
-## Featured Projects
-
-### [Customly](https://customly.it)
-
-> Piattaforma di custom fashion che unisce moda e tecnologia — un configuratore digitale per personalizzare abbigliamento in modo semplice e intuitivo. MVP live, sviluppato con Cloudflare Pages, D1 e R2.
-> Un prodotto reale che risolve un problema concreto: rendere la personalizzazione accessibile e scalabile.
-> _Vanilla JS · Cloudflare Pages · D1 · R2_
-
-### [Portfolio](https://lorenzoperassi.it)
-
-> Il mio spazio personale su web — progetti, lavori di design e contenuti creativi, tutto in un unico posto.
-> _HTML · CSS · GitHub Pages_
-
-### [Diario di uno 09](https://www.instagram.com/diario_di_uno_09)
-
-> Progetto personale di content creation dove documento il percorso tra tecnologia, creatività, disciplina e costruzione di idee. Non è un account social — è un diario pubblico di come imparo costruendo.
-> _Content · Video · Design · Storytelling_
-
-### [Bertolotto Stage](https://github.com/perassilorenzo/bertolotto-stage)
-
-> Esercizi C# sviluppati durante lo stage — il primo contatto reale tra quello che studio a scuola e il mondo del lavoro.
-> _C# · .NET · Windows Forms_
-
-### [CS50x](https://github.com/perassilorenzo/cs50x)
-
-> Harvard's CS50x — appunti, esercizi e problem set. Un percorso strutturato per consolidare le basi della computer science.
-> _C · Python · SQL_
-
-### [Knowledge Base](https://github.com/perassilorenzo/knowledge-base)
-
-> Knowledge base personale — organizzazione di progetti, business, marketing, content creation e sistemi di lavoro. Centro operativo personale.
-> _Markdown · AI agents · Dropbox_
-
-### [Study Archive](https://github.com/perassilorenzo/study-archive)
-
-> Archivio personale di appunti, assignment e risorse — organizzato per materia e anno scolastico, un riferimento continuo.
-> _Documentazione · C#_
 
 ---
 
@@ -121,45 +91,13 @@ Workflow:
 
 ---
 
-## Content & Creative Work
+## Bertolotto Stage, CS50x, file-uploader, Portfolio, Study Archive
 
-**Diario di uno 09** è il mio progetto personale di content creation — documento il percorso tra tecnologia, creatività e costruzione di idee. Non è un semplice account social: è un archivio pubblico di come imparo, provo e costruisco.
-
-<p align="center">
-  <a href="https://www.instagram.com/diario_di_uno_09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
-  <a href="https://www.tiktok.com/@diario_di_uno_09"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>&nbsp;
-  <a href="https://www.youtube.com/@diario_di_uno_09"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/lorenzo-perassi-46057a38b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="https://perassilorenzo.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
-  <a href="mailto:pera.busines@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-## Visual Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=perassilorenzo&theme=radical&no-frame=true&no-bg=true&row=1&column=6">
-    <img src="https://github-profile-trophy.vercel.app/?username=perassilorenzo&theme=default&no-frame=true&no-bg=true&row=1&column=6" width="95%">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perassilorenzo/perassilorenzo/main/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/perassilorenzo/perassilorenzo/main/github-contribution-grid-snake.svg" width="95%" alt="snake">
-  </picture>
-</div>
-
----
-
-## Currently Building
-
-- **Customly** — piattaforma di custom fashion, MVP live su customly.it
-- **Knowledge Base** — sistema personale di organizzazione con AI agents
-- **Content Creation** — documentare il processo di costruzione, non solo il risultato
-- **Open Source** — imparare contribuendo, costruire in pubblico
+- **bertolotto-stage** — Esercizi C# .NET Windows Forms sviluppati durante lo stage @ Bertolotto Porte. _C# · .NET · Windows Forms_
+- **cs50x** — Appunti ed esercizi Harvard CS50 per consolidare le basi della computer science. _C · Python · SQL_
+- **file-uploader** — Utility Windows per la copia file, costruita con C# e .NET 10 usando Windows Forms.
+- **portfolio** — Portfolio personale su web, showcase di progetti, design e lavoro development. _HTML · CSS · GitHub Pages_
+- **study-archive** — Archivio personale di appunti, assignment e risorse, organizzato per materia e anno scolastico. _Documentazione · C#_
 
 ---
 
