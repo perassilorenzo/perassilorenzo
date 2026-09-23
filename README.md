@@ -6,7 +6,7 @@
   <a href="https://perassilorenzo.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://customly.it"><img src="https://img.shields.io/badge/Customly-111827?style=for-the-badge&logo=shopify&logoColor=white" alt="Customly"></a>
   <a href="https://linktr.ee/lollo_pera"><img src="https://img.shields.io/badge/Social-111827?style=for-the-badge&logo=linktree&logoColor=white" alt="Social links"></a>
-  <a href="mailto:pera.busines@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:perassi.lorenzo1804@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
