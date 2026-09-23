@@ -15,13 +15,13 @@
   <img src="https://img.shields.io/github/stars/perassilorenzo?affiliations=OWNER&label=Stars&style=flat-square&logo=github&color=111827" alt="GitHub stars">
 </p>
 
-## Ciao, sono Lorenzo
+## Hi, I'm Lorenzo
 
-Studio informatica al 4' anno all'I.I.S. Giancarlo Vallauri e costruisco progetti digitali tra scuola, prodotto e creativita. Mi piace partire da un'idea, trasformarla in qualcosa di usabile e poi migliorarla con feedback reali.
+I'm a 4th-year Informatics student at <a href="https://www.vallauri.edu">I.I.S. Giancarlo Vallauri</a>, and I build digital projects across school, product and creativity. I like starting from an idea, turning it into something usable, and improving it with real feedback.
 
-Sto conseguendo il CS50, sto iniziando certificazioni e partecipo a challenge e gare come NASA Space Apps Challenge e Olicyber. Oltre al codice creo contenuti su YouTube, Instagram, TikTok e LinkedIn, vendo servizi web e porto avanti Customly per la customizzazione di vestiti.
+I'm currently taking CS50, starting new certifications, and joining tech challenges and competitions such as NASA Space Apps Challenge and Olicyber. Beyond code, I create content on YouTube, Instagram, TikTok and LinkedIn, sell web services, and work on Customly for clothes customization.
 
-## Linguaggi e strumenti
+## Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -33,39 +33,29 @@ Sto conseguendo il CS50, sto iniziando certificazioni e partecipo a challenge e 
   <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
-## Progetti
+## Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3><a href="https://customly.it">Customly</a></h3>
-      <p>Piattaforma per richiedere capi custom, comprare basi e connettere persone e customizer.</p>
+      <p>A platform to request custom clothes, buy base garments, and connect people with customizers.</p>
       <p><code>Vanilla JS</code> <code>Cloudflare</code> <code>UX</code></p>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/perassilorenzo/portfolio">Portfolio</a></h3>
-      <p>Il mio sito personale: progetti, identita digitale, servizi web e contenuti.</p>
+      <p>My personal website for projects, digital identity, web services and content.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/perassilorenzo/study-archive">study-archive</a></h3>
-      <p>Archivio di studio con appunti, esercizi, risorse e materiale per informatica.</p>
+      <p>A study archive with notes, exercises, resources and material for informatics.</p>
       <p><code>Notes</code> <code>Markdown</code> <code>School</code></p>
     </td>
   </tr>
 </table>
 
-## Cosa faccio
-
-```text
-Studio       Informatica, 4' anno al Vallauri
-Learning     CS50, certificazioni, cybersecurity e challenge tech
-Challenge    NASA Space Apps Challenge, Olicyber
-Content      YouTube, Instagram, TikTok, LinkedIn
-Business     Servizi web, Customly, clothes custom
-```
-
-## Snake
+<br>
 
 <p align="center">
   <picture>
