@@ -17,9 +17,13 @@
 
 ## Hi, I'm Lorenzo
 
-I'm a 4th-year Informatics student at <a href="https://www.vallauri.edu">I.I.S. Giancarlo Vallauri</a>, and I build digital projects across school, product and creativity. I like starting from an idea, turning it into something usable, and improving it with real feedback.
+I'm an **Informatics student** at <a href="http://www.vallauri.edu/public/ita/pagina.asp"><strong>IIS Vallauri</strong></a>, but my work doesn't stop at code: I build projects across **technology, fashion, design, content and business** — and I'm open to collaborating with people and brands that have an interesting idea.
 
-I'm currently taking CS50, starting new certifications, and joining tech challenges and competitions such as NASA Space Apps Challenge and Olicyber. Beyond code, I create content on YouTube, Instagram, TikTok and LinkedIn, sell web services, and work on Customly for clothes customization.
+I founded [**Customly**](https://customly.it), a custom fashion platform combining fashion and technology, which I work on every week. I also design and prototype garments with [**CRYBU**](https://crybu.io), build websites, create video content across platforms, and collaborate with clothing brands like [**Aleyesure**](https://aleyesure.com) and [**StageStreetwear**](https://stagestreeware.it).
+
+I've worked on digital content with [**Omnia4Web**](https://omnia4web.com) and done an IT internship at [**Bertolotto Porte**](https://bertolotto.com). I've earned a [**NASA certification on remote sensing**](https://lorenzoperassi.it/assets/ARSET.pdf) ahead of taking part in the [**NASA Space Apps Challenge**](https://www.spaceappschallenge.org/2026/), I'm taking [**Harvard**'s **CS50x**](https://cs50.harvard.edu/x/), and I keep adding new courses and certifications.
+
+The best place to see what I build is my [**portfolio**](https://lorenzoperassi.it) — and if you have an idea, let's build it together: [perassi.lorenzo1804@gmail.com](mailto:perassi.lorenzo1804@gmail.com)
 
 ## Languages and Tools
 
