@@ -52,10 +52,15 @@ The best place to see what I build is my [**portfolio**](https://lorenzoperassi.
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/perassilorenzo/study-archive">study-archive</a></h3>
-      <p>A study archive with notes, exercises, resources and material for informatics.</p>
-      <p><code>Notes</code> <code>Markdown</code> <code>School</code></p>
-    </td>
+  <h3><a href="https://github.com/perassilorenzo/study-archive">study-archive</a></h3>
+  <p>A study archive with notes, exercises, resources and material for informatics.</p>
+  <p><code>Notes</code> <code>Markdown</code> <code>School</code></p>
+  <p>
+    <a href="https://hub.xerj.org/contributors/perassilorenzo">
+      <img src="https://hub.xerj.org/contributors/perassilorenzo/badge.svg" alt="XERJ Corpus Hub contributor">
+    </a>
+  </p>
+</td>
   </tr>
 </table>
 
